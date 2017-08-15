@@ -21,7 +21,7 @@ int main()
 		value = upper;
 	}
 
-	std::cout << value << " is your clamped val\n\n";
+	std::cout << value << " is your clamped val\n\n"; 
 
 	// Even or Odd)
 	std::cout << "Give a number and I'll tell you if it's even or odd.\n";
