@@ -77,5 +77,7 @@ int main()
 	std::cout << "Decades Existed: " << age / 10 << "\n";
 	std::cout << "Scores Existed: " << age / 20 << "\n";
 
+	// Terry is a cool cookie
+
 	system("pause");
 }
