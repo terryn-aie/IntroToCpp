@@ -1,7 +1,20 @@
 #include <iostream>
+#include <cmath>
 
 int main()
 {
+	float val = 0.0f;
+
+	std::cin >> val;
+
+	std::cout << "wuh " << val;
+
+	std::cin >> val;
+
+	std::cout << "wuh " << val;
+
+	return 0;
+
 	// Clamp the Number
 	std::cout << "Give me a range and a number!" << std::endl;
 	int lower = 0;
