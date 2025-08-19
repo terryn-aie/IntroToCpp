@@ -1,0 +1,11 @@
+# Visual Studio junk
+.vs/
+
+# build artifacts
+Debug/
+Release/
+
+x64
+
+# ignores .user files
+*.user
