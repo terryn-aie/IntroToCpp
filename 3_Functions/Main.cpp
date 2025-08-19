@@ -4,8 +4,12 @@ int main()
 {
 	int MinTestA[] = { 0, 55, 32, -17, 9 };
 	int MinTestSmallestA = Min(MinTestA, 5);
+	
 	int MinTestB[] = { 5623, 345, -123, 333, 2312, -123123, -55 };
 	int MinTestSmallestB = Min(MinTestB, 7);
+
+	int MinTestC[] = { 34, 3578, -1233, 3233, 23812, -1263123, -0055 };
+	int MinTestSmallestC = Min(MinTestC, 7);
 
 	return 0;
 }
