@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2def256c-9855-465d-8575-9ad337dec99d}</ProjectGuid>
-    <RootNamespace>My3Functions</RootNamespace>
+    <ProjectGuid>{fb088852-ee93-43d4-8229-78bd40cd8dd7}</ProjectGuid>
+    <RootNamespace>My7ZombieBattle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03_Functions</ProjectName>
+    <ProjectName>07_ZombieBattle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2def256c-9855-465d-8575-9ad337dec99d}</ProjectGuid>
-    <RootNamespace>My3Functions</RootNamespace>
+    <ProjectGuid>{39979a62-8f01-4780-bb25-9d33396e1d3b}</ProjectGuid>
+    <RootNamespace>My6CtorDtor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03_Functions</ProjectName>
+    <ProjectName>06_CtorDtor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
