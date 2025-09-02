@@ -1,5 +1,4 @@
 #pragma once
-
 //
 // TERRY's PRIORITY TODO
 // 
@@ -207,7 +206,15 @@ public:
 	 * @return Reference to the stream that was written to.
 	 * @details Optional. Remove if not implemented.
 	*/
-	friend std::ostream& operator<<(std::ostream& Stream, const String& Str);
+	// friend std::ostream& operator<<(std::ostream& Stream, const String& Str);
+
+	/**
+	 * @brief Tests for lexicographical equality
+	 * @param Other The other string to test against
+	 * @return True if lexicographically equal, otherwise false
+	 * @details Optional.
+	*/
+	// bool operator==(const char* Other_CStr) const;
 
 private:
 	/**
